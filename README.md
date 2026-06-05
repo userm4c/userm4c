@@ -40,8 +40,7 @@ Brasileiro · ADS · Sempre construindo algo
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=userm4c&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=userm4c&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=userm4c&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
