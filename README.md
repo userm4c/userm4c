@@ -40,7 +40,8 @@ Brasileiro · ADS · Sempre construindo algo
 
 <div align="center">
 
-![Estatísticas do GitHub](https://vercel.app)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=userm4c&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=userm4c&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
