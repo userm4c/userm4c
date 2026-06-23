@@ -17,6 +17,7 @@ Brasileiro · ADS · Sempre construindo algo
 | [AutoShorts](https://github.com/userm4c/autoshorts-showcase) | Pipeline que processa lives de gaming e gera shorts verticais prontos para TikTok, Reels e YouTube Shorts | Python · MoviePy · Whisper · Gemini |
 | [Emergency Shield Linux](https://github.com/userm4c/Emergency-Shield-Lnx) | Protocolo de proteção e recuperação automática para servidores Linux headless | Shell · systemd · ALSA |
 | [Smokless Site](https://github.com/userm4c/smokless-site) | Site vitrine com painel admin para loja de vapes — catálogo, galeria e edição de conteúdo via GitHub API | HTML · CSS · JS · GitHub Pages |
+| [SCUM Map](https://github.com/userm4c/scum-map) | Mapa interativo colaborativo do SCUM para uso em grupo — marcações, tiles e coordenadas em tempo real | JavaScript · Leaflet · Supabase · Cloudflare Pages |
 | CitySpots *(privado)* | App mobile de mapeamento de pontos únicos da cidade — spots, check-in geofenced, sistema social e moderação por IA | React Native · Node.js · TypeScript · PostgreSQL |
 | Gestão Smokless *(privado)* | Sistema de gestão para loja física — stock, PDV, relatórios e app mobile complementar | Electron · SQLite · React Native |
 
